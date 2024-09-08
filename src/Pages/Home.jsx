@@ -12,7 +12,7 @@ export default function Home() {
                 <p className='text-gray-400 mt-14 font-medium tracking-widest md:mt-24'>WELCOME TO MY SPACE</p>
                 <h1 className='text-white font-semibold mt-3 tracking-wide md:text-5xl md:mt-4 md:leading-tight'>
                         Hi, I'm Abraham Olatunji <br /> a website Developer Skilled in
-                        <p style={{ color: 'blue', fontWeight: '' }}>
+                        <p style={{ color: 'blue', fontWeight: '' }} >
                         <Typewriter
                             words={['< JavaScript />', ' < React />', '<? php ?>', '< Laravel />', '{ mysql }' ]}
                             loop={0} // loop the animation 5 times, or set it to 0 for infinite

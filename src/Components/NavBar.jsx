@@ -23,9 +23,9 @@ export default function NavBar() {
         <NavLink to='/projects'>
                   <li className='font-normal cursor-pointer  tracking-wide hover:text-blue-600'>PROJECTS</li>
         </NavLink>
-        <NavLink to='/blog'>
+        {/* <NavLink to='/blog'>
                   <li className='font-normal cursor-pointer  tracking-wide hover:text-blue-600'>BLOG</li>
-        </NavLink>
+        </NavLink> */}
         <NavLink to='/hobbies'>
                   <li className='font-normal cursor-pointer  tracking-wide hover:text-blue-600'>HOBBIES</li>
         </NavLink>

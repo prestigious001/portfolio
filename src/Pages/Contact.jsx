@@ -17,7 +17,7 @@ export default function Contact() {
                 <p className='text-gray-400 mt-14 font-medium tracking-widest md:mt-24'>CONTACT ME VIA EMAIL:</p>
                 <span className='flex text-white mt-2'>
                    <p><FaEnvelope className=' mt-3 cursor-pointer hover:text-blue-500 text-2xl'/></p>
-                   <span className='mt-1 ml-2 tracking-wider text-2xl'> abrahamolatunji@gmail.com</span>
+                   <span className='mt-3 ml-2 tracking-wider md:text-2xl md:mt-1'> abrahamolatunji@gmail.com</span>
                 </span>
                 <p className='text-gray-400 mt-7 font-medium tracking-widest md:mt-8'>CONTACT ME VIA SOCIAL MEDIA:</p>
                 <span className='flex text-white mt-6'>
